@@ -1,0 +1,537 @@
+"Yokohama, Japan",relation,boundary,40.969361,41.1635035,141.0812756,141.353073
+"Osaka, Japan",relation,boundary,34.271821,35.051293,135.0258879,135.746603
+"Nagoya, Japan",relation,boundary,35.0259512,35.260229,136.791969,137.060899
+"Sapporo, Japan",relation,boundary,42.780706,43.189994,140.990503,141.505422
+"Kobe, Japan",relation,boundary,34.5324108,34.890578,134.910023,135.3297266
+"Kyoto, Japan",relation,boundary,34.874916,35.3212207,135.559006,135.878442
+"Fukuoka, Japan",relation,boundary,32.9397302,34.6474905,129.8133106,131.2494964
+"Kawasaki, Japan",relation,boundary,35.4114149,35.642667,139.449278,139.9043478
+"Saitama, Japan",relation,boundary,35.753384,36.283412,138.711358,139.900333
+"Hiroshima, Japan",relation,boundary,34.288802,34.614767,132.178545,132.696098
+"Yono, Japan",node,place,35.0819353,35.1019353,134.1864899,134.2064899
+"Sendai, Japan",relation,boundary,38.0508487,38.454699,140.469472,141.2603046
+"Kitakyushu, Japan",relation,boundary,33.720997,34.1688379,130.4809477,131.1419318
+"Chiba, Japan",relation,boundary,35.493589,35.714614,139.9838486,140.303138
+"Sakai, Japan",relation,boundary,34.430148,34.6110525,135.3116254,135.5876387
+"Shizuoka, Japan",relation,boundary,34.8019562,35.645957,138.082959,138.6539534
+"Kumamoto, Japan",relation,boundary,32.0092372,33.195174,129.3215935,131.329506
+"Okayama, Japan",relation,boundary,34.518521,34.9489321,133.739662,134.1525792
+"Hamamatsu, Japan",relation,boundary,34.4064663,35.304395,137.48685,138.058702
+"Hachioji, Japan",relation,boundary,35.598322,35.71912,139.161601,139.430296
+"Honcho, Japan",node,place,35.7794984,35.7994984,139.2492824,139.2692824
+"Kagoshima, Japan",relation,boundary,26.8389395,32.3397017,128.2051589,131.3159068
+"Niigata, Japan",relation,boundary,36.736529,38.8973083,137.5316348,139.899887
+"Himeji, Japan",relation,boundary,34.4691672,35.094363,134.3446894,134.813635
+"Matsudo, Japan",relation,boundary,35.746721,35.849769,139.879385,140.001359
+"Kawaguchi, Japan",relation,boundary,35.7801769,35.887065,139.675201,139.788283
+"Kanazawa, Japan",relation,boundary,36.338154,36.7811202,136.3576149,136.81723
+"Utsunomiya, Japan",relation,boundary,36.463971,36.730081,139.742867,140.010764
+"Oita, Japan",relation,boundary,32.3788922,33.8456127,130.8247501,132.2760947
+"Matsuyama, Japan",relation,boundary,33.687358,34.122797,132.4464404,132.926804
+"Amagasaki, Japan",relation,boundary,34.6639679,34.78123,135.334089,135.460294
+"Kurashiki, Japan",relation,boundary,34.4148582,34.6694687,133.602433,133.885506
+"Yokosuka, Japan",relation,boundary,35.1171371,35.3480463,139.3833329,139.8017832
+"Nagasaki, Japan",relation,boundary,31.7849263,34.8917397,127.8685002,130.481954
+"Hirakata, Japan",relation,boundary,34.773083,34.881341,135.614258,135.746603
+"Machida, Japan",relation,boundary,35.5012219,35.623504,139.268797,139.507589
+"Gifu-shi, Japan",relation,boundary,35.351284,35.543103,136.678678,136.886272
+"Fujisawa, Japan",relation,boundary,35.1779523,35.4290883,139.393981,139.5168491
+"Toyonaka, Japan",relation,boundary,34.730696,34.824884,135.440995,135.508294
+"Fukuyama, Japan",relation,boundary,34.2321797,34.712131,133.210609,133.4973622
+"Toyohashi, Japan",relation,boundary,34.3450155,34.861313,137.2452653,137.5345541
+"Minato, Japan",relation,boundary,35.6230295,35.6826516,139.7087504,139.7829301
+"Nara-shi, Japan",relation,boundary,34.558047,34.757739,135.713127,136.071079
+"Toyota, Japan",relation,boundary,34.99061,35.291156,137.0400635,137.581125
+"Nagano, Japan",relation,boundary,35.198366,37.030423,137.324551,138.739252
+"Iwaki, Japan",relation,boundary,36.7443355,37.319544,140.565869,141.2596767
+"Asahikawa, Japan",relation,boundary,43.544303,43.956223,142.148252,142.741542
+"Takatsuki, Japan",relation,boundary,34.780508,34.976756,135.557187,135.672756
+"Okazaki, Japan",relation,boundary,34.86042,35.041514,137.1025932,137.421252
+"Suita, Japan",relation,boundary,34.744572,34.8308774,135.4868007,135.555191
+"Wakayama, Japan",relation,boundary,34.1439722,34.3940376,134.9787171,135.314771
+"Koriyama, Japan",relation,boundary,37.266026,37.625978,140.035984,140.564389
+"Kashiwa, Japan",relation,boundary,35.781216,35.935847,139.913323,140.111938
+"Tokorozawa, Japan",relation,boundary,35.763285,35.843601,139.378941,139.545549
+"Kawagoe, Japan",relation,boundary,35.837584,35.962266,139.3774483,139.558384
+"Kochi, Japan",relation,boundary,33.2394231,33.682032,133.394351,133.7137678
+"Takamatsu, Japan",relation,boundary,34.1111981,34.4524538,133.9134721,134.2061928
+"Toyama, Japan",relation,boundary,36.369746,36.9129089,137.028174,137.705465
+"Akita, Japan",relation,boundary,38.873021,40.511122,139.3431251,140.995425
+"Koshigaya, Japan",relation,boundary,35.854722,35.95857,139.745118,139.840167
+"Miyazaki, Japan",relation,boundary,31.6959875,32.06586,131.18918,131.731135
+"Naha, Japan",relation,boundary,26.176017,26.2552228,127.560305,127.738662
+"Kasugai, Japan",relation,boundary,35.216097,35.339313,136.925134,137.097664
+"Aomori, Japan",relation,boundary,40.217715,41.6060556,139.2341118,141.9039677
+"Otsu, Japan",relation,boundary,34.871267,35.284656,135.814757,136.043101
+"Akashi, Japan",relation,boundary,34.6045317,34.725638,134.8160365,135.032517
+"Yokkaichi, Japan",relation,boundary,34.8635095,35.070505,136.413468,136.7432272
+"Morioka, Japan",relation,boundary,39.563746,39.930191,140.995251,141.527462
+"Fukushima, Japan",relation,boundary,41.3653534,41.626974,140.164468,140.4378452
+"Ichihara, Japan",relation,boundary,35.231205,35.5801838,139.9499101,140.260244
+"Maebashi, Japan",relation,boundary,36.316208,36.562378,139.0016248,139.230138
+"Ichinomiya, Japan",relation,boundary,35.250213,35.369604,136.704576,136.877254
+"Hakodate, Japan",relation,boundary,41.585065,42.137512,140.6493728,141.4561592
+"Ibaraki, Japan",relation,boundary,35.739138,36.945302,139.687691,141.0308016
+"Yao, Japan",relation,boundary,34.583332,34.650776,135.5618608,135.664287
+"Kakogawacho-honmachi, Japan",node,place,34.7603,34.7803,134.818555,134.838555
+"Tokushima, Japan",relation,boundary,33.955211,34.130363,134.422518,134.7666294
+"Hiratsuka, Japan",relation,boundary,35.2298628,35.403806,139.238739,139.3792851
+"Yamagata, Japan",relation,boundary,38.143495,38.351994,140.179241,140.530683
+"Fukui-shi, Japan",relation,boundary,35.920399,36.2999716,135.5984706,136.467211
+"Mito, Japan",relation,boundary,36.300725,36.464438,140.32173,140.586801
+"Shimonoseki, Japan",relation,boundary,33.9043586,34.7507108,130.3978627,131.172518
+"Takasaki, Japan",relation,boundary,36.198594,36.483472,138.642506,139.129659
+"Fuji, Japan",relation,boundary,35.0167422,35.359117,138.557761,138.812039
+"Hachinohe, Japan",relation,boundary,40.347361,40.7218137,141.354479,141.8579636
+"Neyagawa, Japan",relation,boundary,34.728212,34.791507,135.587006,135.662595
+"Kurume, Japan",relation,boundary,33.223947,33.3683778,130.3852054,130.7318683
+"Sasebo, Japan",relation,boundary,33.0369392,33.5436486,128.8333698,129.8726781
+"Chigasaki, Japan",relation,boundary,35.1237454,35.384922,139.3589717,139.4456075
+"Soka, Japan",relation,boundary,35.8052433,35.871571,139.763601,139.840853
+"Atsugi, Japan",relation,boundary,35.393317,35.527467,139.228,139.380018
+"Minamirinkan, Japan",node,place,35.4863149,35.5063149,139.4255171,139.4455171
+"Takarazuka, Japan",relation,boundary,34.772066,34.962384,135.274439,135.413287
+"Chofu, Japan",relation,boundary,35.632591,35.688161,139.517033,139.593089
+"Matsumoto, Japan",relation,boundary,36.009632,36.379442,137.550178,138.131235
+"Kasukabe, Japan",relation,boundary,35.935377,36.043168,139.707852,139.833326
+"Kishiwada, Japan",relation,boundary,34.347369,34.5196136,135.2803372,135.463727
+"Numazu, Japan",relation,boundary,34.9231333,35.219243,138.6350207,138.924342
+"Joetsu, Japan",relation,boundary,36.940891,37.5260318,137.7845494,138.568896
+"Odawara, Japan",relation,boundary,35.177906,35.32992,139.058912,139.2940787
+"Kure, Japan",relation,boundary,34.0076247,34.333242,132.3957386,132.8806801
+"Nagaoka, Japan",relation,boundary,37.176478,37.7270967,138.5285141,139.124284
+"Itami, Japan",relation,boundary,34.756784,34.815534,135.369766,135.446222
+"Uji, Japan",relation,boundary,34.85792,34.957367,135.759646,135.879924
+"Suzuka, Japan",relation,boundary,34.733732,34.988105,136.395192,136.715465
+"Kofu, Japan",relation,boundary,35.50187,35.875883,138.523556,138.661252
+"Izumi, Japan",relation,boundary,34.347309,34.515401,135.4150086,135.526957
+"Hitachi, Japan",relation,boundary,36.4635996,36.714615,140.516685,140.9559653
+"Kushiro, Japan",relation,boundary,42.6960486,43.531172,143.702831,144.5530874
+"Sakura, Japan",relation,boundary,35.624382,35.766246,140.126249,140.301303
+"Kamirenjaku, Japan",node,place,35.6887444,35.7087444,139.5448857,139.5648857
+"Anjo, Japan",relation,boundary,34.888117,35.011068,137.010167,137.12654
+"Tsukuba, Japan",relation,boundary,35.947322,36.236828,139.995791,140.173153
+"Hirosaki, Japan",relation,boundary,40.467553,40.761425,140.154721,140.598703
+"Tomakomai, Japan",relation,boundary,42.401845,42.787717,141.33905,141.82997
+"Hadano, Japan",relation,boundary,35.345965,35.461231,139.141241,139.291897
+"Obihiro, Japan",relation,boundary,42.614835,42.952846,142.686846,143.268298
+"Ube, Japan",relation,boundary,33.7661299,34.166989,131.183532,131.4182075
+"Hino, Japan",relation,boundary,35.639316,35.691631,139.357321,139.442012
+"Takaoka, Japan",relation,boundary,36.656419,36.8786644,136.833453,137.1508477
+"Kamakura, Japan",relation,boundary,35.2665593,35.3682217,139.4885482,139.593173
+"Saga, Japan",relation,boundary,32.9181209,33.7048579,129.6400147,130.5421271
+"Tsu, Japan",relation,boundary,34.447361,34.844503,136.159726,136.7037277
+"Sayama, Japan",relation,boundary,35.817707,35.9009486,139.360885,139.478305
+"Kawanishi, Japan",relation,boundary,34.800432,34.939395,135.360807,135.468594
+"Oyama, Japan",relation,boundary,36.223315,36.388757,139.687462,139.91505
+"Ashikaga, Japan",relation,boundary,36.2706,36.445711,139.361032,139.548605
+"Matsue, Japan",relation,boundary,35.329702,35.8017066,132.8287487,133.5282837
+"Nagareyama, Japan",relation,boundary,35.827512,35.91976,139.87475,139.957543
+"Katsuta, Japan",node,place,34.7635602,34.7835602,138.1615781,138.1815781
+"Kumagaya, Japan",relation,boundary,36.069633,36.254374,139.289606,139.4466167
+"Tottori, Japan",relation,boundary,35.057678,35.8030537,133.135879,134.515408
+"Ota, Japan",relation,boundary,35.5054329,35.6130909,139.6528262,139.9213618
+"Komaki, Japan",relation,boundary,35.255171,35.3389202,136.8805483,137.0457387
+"Ogaki, Japan",relation,boundary,35.216733,35.41087,136.377267,136.690585
+"Higashimurayama, Japan",relation,boundary,35.734506,35.7814574,139.440001,139.504787
+"Ome, Japan",relation,boundary,35.754545,35.850868,139.137157,139.330362
+"Moriguchi, Japan",relation,boundary,34.708782,34.767522,135.553401,135.606928
+"Yamaguchi, Japan",relation,boundary,33.8126851,34.504507,131.292017,131.795511
+"Otaru, Japan",relation,boundary,43.06084,43.567358,140.8162516,141.292543
+"Urayasu, Japan",relation,boundary,35.5411147,35.672741,139.8564274,139.9858814
+"Yonago, Japan",relation,boundary,35.374067,35.519628,133.226853,133.48055
+"Kuwana, Japan",relation,boundary,34.9888016,35.180931,136.573366,136.755169
+"Kariya, Japan",relation,boundary,34.94739,35.069162,136.978797,137.068779
+"Musashino, Japan",relation,boundary,35.693963,35.7218945,139.5246277,139.59547
+"Zama, Japan",relation,boundary,35.4684427,35.515425,139.373712,139.438834
+"Seto, Japan",relation,boundary,35.178801,35.301647,137.048432,137.189488
+"Ebetsu, Japan",relation,boundary,43.016069,43.172715,141.444392,141.668804
+"Tondabayashicho, Japan",node,place,34.4897399,34.5097399,135.5920457,135.6120457
+"Fujieda, Japan",relation,boundary,34.815806,35.015712,138.151672,138.327492
+"Sandacho, Japan",node,place,34.8746874,34.8946874,135.2156314,135.2356314
+"Kakamigahara, Japan",relation,boundary,35.355923,35.44673,136.79202,136.963092
+"Omuta, Japan",relation,boundary,32.9397302,33.098581,130.2801647,130.5424533
+"Abiko, Japan",relation,boundary,35.840754,35.900613,139.988665,140.146464
+"Kadoma, Japan",relation,boundary,34.710754,34.750389,135.571059,135.623929
+"Miyakonojo, Japan",relation,boundary,31.619908,31.94483,130.875022,131.254379
+"Matsubara, Japan",relation,boundary,34.553805,34.599448,135.521,135.585756
+"Isesaki, Japan",relation,boundary,36.2425871,36.408374,139.136173,139.2829949
+"Daitocho, Japan",node,place,35.494357,35.514357,139.685019,139.705019
+"Mino, Japan",relation,boundary,35.510479,35.652281,136.838417,136.979013
+"Asaka, Japan",relation,boundary,35.778366,35.835246,139.572775,139.623366
+"Kusatsu, Japan",relation,boundary,34.971677,35.0881225,135.8878505,135.999258
+"Ueda, Japan",relation,boundary,36.217194,36.554671,138.069068,138.413973
+"Okinawa, Japan",relation,boundary,26.2743154,26.421747,127.772165,127.8678214
+"Beppu, Japan",relation,boundary,33.223892,33.354344,131.378195,131.5636408
+"Kashihara-shi, Japan",relation,boundary,34.463134,34.537575,135.750628,135.831821
+"Niihama, Japan",relation,boundary,33.814684,34.0846956,133.1814311,133.455453
+"Kisarazu, Japan",relation,boundary,35.312686,35.529979,139.8058862,140.129743
+"Nobeoka, Japan",relation,boundary,32.4494853,32.83898,131.428779,132.0823437
+"Fujinomiya, Japan",relation,boundary,35.151682,35.4457283,138.512093,138.742244
+"Noda, Japan",relation,boundary,35.912941,36.104101,139.775949,139.951894
+"Yaizu, Japan",relation,boundary,34.6508651,34.922679,138.236778,138.5395999
+"Toyokawa, Japan",relation,boundary,34.7781665,34.909746,137.256148,137.461359
+"Shimotoda, Japan",node,place,34.9746698,34.9946698,134.9728332,134.9928332
+"Kokubunji, Japan",relation,boundary,35.688328,35.722875,139.428262,139.4915779
+"Ikoma, Japan",relation,boundary,34.64649,34.781356,135.670072,135.757061
+"Ishinomaki, Japan",relation,boundary,37.8867802,38.6408679,141.1611459,141.9744262
+"Hofu, Japan",relation,boundary,33.8234221,34.160481,131.455242,131.7540743
+"Handa, Japan",relation,boundary,34.8589718,34.941754,136.865596,136.9782769
+"Mishima, Japan",relation,boundary,35.075465,35.1898,138.904408,139.013831
+"Kitami, Japan",relation,boundary,43.591518,44.3841874,143.135659,144.2124092
+"Hikone, Japan",relation,boundary,35.190164,35.3560088,136.0836998,136.351597
+"Kiryu, Japan",relation,boundary,36.358527,36.5956619,139.188678,139.451094
+"Komatsu, Japan",relation,boundary,36.146106,36.5559033,136.2176183,136.612386
+"Iwatsuki, Japan",relation,boundary,35.880293,36.002692,139.653531,139.75734
+"Tajimi, Japan",relation,boundary,35.270383,35.403109,137.045241,137.186456
+"Iida, Japan",relation,boundary,35.253329,35.655681,137.689221,138.153136
+"Fukayacho, Japan",node,place,35.3768502,35.3968502,139.4910896,139.5110896
+"Honmachi, Japan",node,place,34.834165,34.854165,135.6161992,135.6361992
+"Iwakuni, Japan",relation,boundary,33.9680465,34.46949,131.878434,132.4760549
+"Isehara, Japan",relation,boundary,35.369414,35.447946,139.229946,139.357446
+"Nishio, Japan",relation,boundary,34.6838919,34.913841,136.9582038,137.171948
+"Inazawa, Japan",relation,boundary,35.193746,35.276705,136.677773,136.838961
+"Narita, Japan",relation,boundary,35.723271,35.902369,140.249148,140.472484
+"Izumisano, Japan",relation,boundary,34.328444,34.5442281,135.1437307,135.4092213
+"Sakata, Japan",relation,boundary,38.774047,39.5928744,139.1382156,140.150791
+"Konan, Japan",relation,boundary,35.299078,35.378089,136.832316,136.8997135
+"Chikushino-shi, Japan",relation,boundary,33.4279241,33.554682,130.4536583,130.6217003
+"Tsuruoka, Japan",relation,boundary,38.316778,38.9278277,139.1801276,140.030097
+"Ikeda, Japan",relation,boundary,34.791774,34.877125,135.415991,135.460808
+"Isahaya, Japan",relation,boundary,32.6719785,32.975379,129.8854361,130.2514075
+"Mobara, Japan",relation,boundary,35.379403,35.502819,140.244446,140.381357
+"Ise, Japan",relation,boundary,34.384721,34.65348,136.632614,136.8209889
+"Kameoka, Japan",relation,boundary,34.915167,35.10129,135.37765,135.646745
+"Sakado, Japan",relation,boundary,35.919462,35.998096,139.32365,139.468287
+"Muroran, Japan",relation,boundary,42.1063203,42.437262,140.6560097,141.3487231
+"Onojo, Japan",relation,boundary,33.46382,33.563575,130.4503374,130.5145763
+"Kanuma, Japan",relation,boundary,36.461181,36.715035,139.464063,139.8323
+"Yonezawa, Japan",relation,boundary,37.733829,37.987674,139.934921,140.2988
+"Kitakami, Japan",relation,boundary,39.174416,39.481226,140.816988,141.254983
+"Chitose, Japan",relation,boundary,42.681188,42.953175,141.172303,141.869981
+"Kaizuka, Japan",relation,boundary,34.339764,34.5120237,135.2829331,135.43429
+"Maizuru, Japan",relation,boundary,35.380033,36.1031939,135.159256,135.679535
+"Kimitsu, Japan",relation,boundary,35.153842,35.4306628,139.7679022,140.162161
+"Ginowan, Japan",relation,boundary,26.249855,26.3143212,127.7012663,127.787146
+"Onomichi, Japan",relation,boundary,34.2443572,34.573099,133.0300969,133.296987
+"Omura, Japan",relation,boundary,32.843372,33.004142,129.8588663,130.0868271
+"Tsuyama, Japan",relation,boundary,34.9835532,35.307412,133.821078,134.168894
+"Izumo, Japan",relation,boundary,35.160026,35.7114771,132.3645902,132.934414
+"Ashiya, Japan",relation,boundary,34.6738613,34.78121,135.267042,135.3276158
+"Iwata, Japan",relation,boundary,34.4452145,34.891061,137.787199,137.9460196
+"Konosu, Japan",relation,boundary,36.030788,36.124874,139.430359,139.570465
+"Nabari, Japan",relation,boundary,34.545893,34.688259,136.03954,136.195486
+"Yotsukaido, Japan",relation,boundary,35.625475,35.707319,140.136495,140.214926
+"Hamakita, Japan",node,place,36.7224457,36.7424457,136.6857647,136.7057647
+"Gyoda, Japan",relation,boundary,36.090122,36.198315,139.416702,139.53556
+"Hanno, Japan",relation,boundary,35.818766,35.969735,139.1002228,139.3746936
+"Kashiwazaki, Japan",relation,boundary,37.159853,37.6605588,138.1288891,138.721764
+"Ryugasaki, Japan",relation,boundary,35.872355,36.008355,140.087509,140.261023
+"Iwamizawa, Japan",relation,boundary,43.075355,43.337722,141.610258,142.043858
+"Kakegawa, Japan",relation,boundary,34.4549951,34.920195,137.937293,138.102407
+"Gotenba, Japan",relation,boundary,35.214817,35.361966,138.731687,138.993185
+"Yachimata, Japan",relation,boundary,35.572529,35.716061,140.248531,140.354461
+"Katori-shi, Japan",relation,boundary,35.753467,35.958737,140.424844,140.651504
+"Kamigyo-ku, Japan",relation,boundary,35.014914,35.039201,135.732936,135.771697
+"Sanjo, Japan",relation,boundary,37.397493,37.682199,138.872385,139.298362
+"Sano, Japan",relation,boundary,36.26674,36.5781642,139.406497,139.646392
+"Kanoya, Japan",relation,boundary,31.227785,31.616962,130.6624816,130.972205
+"Tochigi, Japan",relation,boundary,36.199682,36.497744,139.563841,139.812442
+"Tanashicho, Japan",node,place,35.7187951,35.7387951,139.5300411,139.5500411
+"Marugame, Japan",relation,boundary,34.2011176,34.4489831,133.6010204,133.9052536
+"Yashio, Japan",relation,boundary,35.7908206,35.858086,139.811417,139.869348
+"Tatebayashi, Japan",relation,boundary,36.2100146,36.284714,139.459106,139.6256404
+"Shibata, Japan",relation,boundary,37.788058,38.1363985,139.2053719,139.681838
+"Gamagori, Japan",relation,boundary,34.7132452,34.87028,137.1410499,137.301829
+"Izumiotsu, Japan",relation,boundary,34.48154,34.5845184,135.2624498,135.435067
+"Toride, Japan",relation,boundary,35.870857,35.954207,139.995197,140.154239
+"Mihara, Japan",relation,boundary,34.3038389,34.59367,132.847402,133.162492
+"Ushiku, Japan",relation,boundary,35.931982,36.028082,140.114721,140.272925
+"Kashihara, Japan",relation,boundary,34.463134,34.537575,135.750628,135.831821
+"Karatsu, Japan",relation,boundary,33.277587,33.7048579,129.6400147,130.1705301
+"Iizuka, Japan",relation,boundary,33.503817,33.707015,130.5581383,130.7761463
+"Obu, Japan",relation,boundary,34.975749,35.053412,136.91496,137.00165
+"Wako, Japan",relation,boundary,35.7666064,35.813206,139.596906,139.646307
+"Hatsukaichi, Japan",relation,boundary,34.2156571,34.583151,132.036448,132.3668629
+"Furukawa, Japan",node,place,36.7394011,36.7594011,137.1967099,137.2167099
+"Shimada, Japan",relation,boundary,34.785691,35.064285,138.009822,138.250803
+"Okegawa, Japan",relation,boundary,35.960715,36.040532,139.506146,139.596065
+"Tokyo, Japan",relation,boundary,20.2145811,35.8984245,135.8536855,154.205541
+"Abilene,  United States",relation,boundary,32.3431879,32.624481,-99.867722,-99.623084
+"Akron,  United States",relation,boundary,40.9976575,41.171061,-81.621014,-81.404942
+"Albuquerque,  United States",relation,boundary,34.946766,35.218203,-106.8821501,-106.471376
+"Alexandria,  United States",relation,boundary,38.7851837,38.8449229,-77.1443577,-77.0370392
+"Allentown,  United States",relation,boundary,40.5499752,40.6361993,-75.5480852,-75.4193521
+"Amarillo,  United States",relation,boundary,35.1020007,35.2944807,-101.956244,-101.653777
+"Anaheim,  United States",relation,boundary,33.7889241,33.8790572,-118.0174211,-117.6738308
+"Anchorage,  United States",relation,boundary,60.733788,61.483938,-150.420615,-148.460007
+"Ann Arbor,  United States",relation,boundary,42.222668,42.3238941,-83.799572,-83.675807
+"Antioch,  United States",relation,boundary,37.9208342,38.0300593,-121.8605884,-121.7323883
+"Arlington, Texas,  United States",relation,boundary,32.586565,32.817121,-97.233818,-97.037008
+"Arlington, Virginia,  United States",node,place,38.7303961,39.0503961,-77.2441585,-76.9241585
+"Arvada,  United States",relation,boundary,39.7843843,39.8930153,-105.3019196,-105.042313
+"Athens, Georgia,  United States",relation,boundary,33.8480209,34.039466,-83.5374696,-83.2408342
+"Atlanta,  United States",relation,boundary,33.647808,33.886823,-84.551068,-84.28956
+"Augusta, Georgia,  United States",relation,boundary,33.227165,33.5450221,-82.3538702,-81.8281227
+"Aurora, Colorado,  United States",relation,boundary,39.5510611,39.8269612,-104.8865378,-104.488906
+"Aurora, Illinois,  United States",relation,boundary,41.679869,41.822191,-88.408369,-88.2048913
+"Austin,  United States",relation,boundary,30.0984576,30.5166255,-97.9367663,-97.5605288
+"Bakersfield,  United States",relation,boundary,35.193979,35.447975,-119.265033,-118.772341
+"Baltimore,  United States",relation,boundary,39.1972328,39.3720378,-76.7112977,-76.5296757
+"Baton Rouge,  United States",relation,boundary,30.3383782,30.5589767,-91.2350363,-90.9993438
+"Beaumont,  United States",relation,boundary,29.9729432,30.1890213,-94.2249569,-94.0369338
+"Bellevue,  United States",relation,boundary,47.535013,47.660788,-122.2228062,-122.0872197
+"Berkeley,  United States",relation,boundary,37.835727,37.9066896,-122.3686793,-122.2341962
+"Billings,  United States",relation,boundary,45.710673,45.852653,-108.691519,-108.435916
+"Birmingham, Alabama,  United States",relation,boundary,33.38376,33.678715,-87.122124,-86.57815
+"Boise,  United States",relation,boundary,43.509398,43.6920633,-116.365683,-116.09419
+"Boston,  United States",relation,boundary,42.2279112,42.3969775,-71.1912491,-70.8044881
+"Boulder,  United States",relation,boundary,39.9643513,40.094409,-105.3014509,-105.1780988
+"Bridgeport,  United States",relation,boundary,41.1399013,41.2296213,-73.2440717,-73.1537198
+"Brownsville,  United States",relation,boundary,25.84019,26.2175148,-97.6445529,-97.2736409
+"Buffalo,  United States",relation,boundary,42.8260387,42.9664686,-78.9194528,-78.7951677
+"Burbank,  United States",relation,boundary,34.1426634,34.221654,-118.3701672,-118.280032
+"Cambridge, Massachusetts,  United States",relation,boundary,42.3524025,42.4042593,-71.1603989,-71.0639844
+"Cape Coral,  United States",relation,boundary,26.525126,26.7700251,-82.0916584,-81.9003073
+"Carlsbad,  United States",relation,boundary,33.060109,33.1824213,-117.4095657,-117.2162646
+"Carrollton,  United States",relation,boundary,32.9180972,33.0551786,-96.9586136,-96.8352699
+"Cary,  United States",relation,boundary,35.6443725,35.8968327,-78.9431116,-78.7294548
+"Cedar Rapids,  United States",relation,boundary,41.8615994,42.0689041,-91.7745806,-91.5510589
+"Centennial, Colorado,  United States",relation,boundary,39.5658877,39.6384808,-104.9883788,-104.7216075
+"Chandler,  United States",relation,boundary,33.2037629,33.3613382,-111.9722328,-111.755313
+"Charleston,  United States",relation,boundary,32.668505,32.973515,-80.1438459,-79.797064
+"Charlotte,  United States",relation,boundary,35.013174,35.393133,-81.009554,-80.670104
+"Chattanooga,  United States",relation,boundary,34.9829822,35.214346,-85.4255628,-85.051587
+"Chesapeake,  United States",relation,boundary,36.5504382,36.8671757,-76.491499,-76.0651989
+"Chicago,  United States",relation,boundary,41.644531,42.0230396,-87.940101,-87.5240812
+"Chula Vista,  United States",relation,boundary,32.577923,32.68561,-117.1240551,-116.924798
+"Cincinnati,  United States",relation,boundary,39.0520565,39.2210368,-84.71239,-84.3695773
+"Clarksville,  United States",relation,boundary,36.4786409,36.6417648,-87.482366,-87.2055556
+"Clearwater,  United States",relation,boundary,27.9351239,28.0499611,-82.8434471,-82.6792432
+"Cleveland,  United States",relation,boundary,41.390628,41.604436,-81.8790937,-81.532744
+"Colorado Springs,  United States",relation,boundary,38.7154517,39.0351247,-104.9170862,-104.5999135
+"Columbia, Missouri,  United States",relation,boundary,38.863537,39.029402,-92.433832,-92.22762
+"Columbia, South Carolina,  United States",relation,boundary,33.943248,34.131597,-81.170978,-80.7038161
+"Columbus, Georgia,  United States",relation,boundary,32.373876,32.6081231,-85.079207,-84.667463
+"Columbus, Ohio,  United States",relation,boundary,39.8086936,40.1573082,-83.2101797,-82.7713119
+"Concord,  United States",relation,boundary,43.151787,43.309816,-71.66871,-71.4567655
+"Coral Springs,  United States",node,place,26.111192,26.431192,-80.4306044,-80.1106044
+"Corona,  United States",relation,boundary,33.8000147,33.9161643,-117.673177,-117.4838074
+"Corpus Christi,  United States",relation,boundary,27.483569,27.899638,-97.682742,-96.961108
+"Costa Mesa,  United States",relation,boundary,33.625123,33.7020933,-117.9547143,-117.8639744
+"Dallas,  United States",relation,boundary,32.613216,33.0239366,-97.000482,-96.4636317
+"Daly City,  United States",relation,boundary,37.6485198,37.708269,-122.5745849,-122.4051391
+"Dayton,  United States",relation,boundary,39.70185,39.920823,-84.311377,-84.092938
+"Denton,  United States",relation,boundary,32.9874419,33.4304327,-97.3984766,-96.8340279
+"Denver,  United States",relation,boundary,39.6143154,39.9142087,-105.1098845,-104.5996889
+"Des Moines,  United States",relation,boundary,41.4796389,41.6589106,-93.7091411,-93.4936911
+"Detroit,  United States",relation,boundary,42.255192,42.4502432,-83.287959,-82.9104391
+"Downey,  United States",relation,boundary,33.9023817,33.9729911,-118.1704328,-118.090262
+"Durham,  United States",relation,boundary,35.8663503,36.1370099,-79.0074981,-78.759587
+"Kansas City, Kansas,  United States",relation,boundary,39.0436382,39.2030653,-94.9084171,-94.5882049
+"Kansas City, Missouri,  United States",relation,boundary,38.827176,39.356662,-94.765917,-94.385522
+"Killeen,  United States",relation,boundary,31.0234573,31.1410159,-97.8244787,-97.65132
+"Knoxville,  United States",relation,boundary,35.849497,36.067428,-84.161625,-83.688543
+"El Monte,  United States",relation,boundary,38.760516,38.783017,-93.432962,-93.412666
+"El Paso,  United States",relation,boundary,31.6224579,32.001484,-106.6357782,-106.1991528
+"Elgin,  United States",relation,boundary,41.971373,42.103581,-88.4545654,-88.222773
+"Elizabeth,  United States",relation,boundary,40.632949,40.690428,-74.2542157,-74.1377655
+"Elk Grove,  United States",node,place,38.2487993,38.5687993,-121.5316178,-121.2116178
+"Erie,  United States",relation,boundary,42.0772637,42.1536477,-80.1386671,-80.0035087
+"Escondido,  United States",relation,boundary,33.057842,33.211608,-117.146104,-116.993859
+"Eugene,  United States",relation,boundary,43.9875292,44.1322715,-123.2087577,-123.0358859
+"Evansville,  United States",relation,boundary,37.935588,38.05689,-87.637548,-87.4498736
+"Everett,  United States",relation,boundary,47.878176,48.0360295,-122.29397,-121.793978
+"Fairfield,  United States",relation,boundary,38.158498,38.308742,-122.174914,-121.8919794
+"Fargo,  United States",relation,boundary,46.73143,46.9629491,-96.903771,-96.7528369
+"Fayetteville,  United States",relation,boundary,35.9893558,36.1489329,-94.2978481,-94.0267113
+"Flint,  United States",relation,boundary,42.945636,43.0793357,-83.7722846,-83.6206489
+"Fontana,  United States",relation,boundary,34.0334282,34.184447,-117.5243184,-117.401059
+"Fort Collins,  United States",relation,boundary,40.4726063,40.639352,-105.153345,-104.98208
+"Fort Lauderdale,  United States",relation,boundary,26.079607,26.21192,-80.2037815,-80.0871487
+"Fort Wayne,  United States",relation,boundary,40.9650987,41.2005181,-85.3034832,-85.0007277
+"Fort Worth,  United States",relation,boundary,32.551584,33.049529,-97.592388,-97.0335808
+"Fremont,  United States",relation,boundary,37.4539501,37.6066739,-122.1489115,-121.8701128
+"Fresno,  United States",relation,boundary,36.662162,36.908905,-119.934397,-119.654997
+"Frisco,  United States",relation,boundary,33.0814979,33.219578,-96.9227866,-96.7325669
+"Fullerton,  United States",relation,boundary,33.8541649,33.9244572,-117.9854168,-117.8637071
+"Gainesville,  United States",relation,boundary,29.5978845,29.7783723,-82.4222531,-82.2223771
+"Garden Grove,  United States",relation,boundary,33.7324811,33.8056859,-118.0427903,-117.8942776
+"Garland,  United States",relation,boundary,32.830143,32.985588,-96.7057568,-96.505519
+"Gilbert,  United States",relation,boundary,33.204638,33.385792,-111.8420962,-111.686071
+"Glendale, Arizona,  United States",relation,boundary,33.5077852,33.6979238,-112.4615632,-112.1515629
+"Glendale, California,  United States",relation,boundary,34.118761,34.26719,-118.3078696,-118.1815749
+"Grand Prairie,  United States",relation,boundary,32.498644,32.8165316,-97.0811697,-96.924017
+"Grand Rapids,  United States",relation,boundary,42.883648,43.0290471,-85.751532,-85.568646
+"Green Bay,  United States",relation,boundary,44.471793,44.5746747,-88.139816,-87.841173
+"Greensboro,  United States",relation,boundary,35.9758146,36.2153577,-80.017884,-79.621166
+"Gresham,  United States",relation,boundary,45.46094,45.5608795,-122.4980699,-122.3675829
+"Hampton,  United States",relation,boundary,36.919408,37.1513676,-76.4513394,-76.0843199
+"Hartford,  United States",relation,boundary,41.7236703,41.8074191,-72.7180372,-72.6422873
+"Hayward,  United States",relation,boundary,37.5478185,37.6899445,-122.2190692,-121.9203973
+"Henderson,  United States",relation,boundary,32.0058599,32.3590747,-96.451874,-95.428374
+"Hialeah,  United States",relation,boundary,25.8061064,25.9279154,-80.3737373,-80.2529823
+"High Point,  United States",relation,boundary,35.9119964,36.0969655,-80.0722241,-79.8963731
+"Hollywood, Florida,  United States",relation,boundary,25.9864172,26.0934782,-80.2487763,-80.1020223
+"Honolulu,  United States",relation,boundary,21.2548159,21.4021936,-157.9535818,-157.6486277
+"Houston,  United States",relation,boundary,29.5370705,30.1103506,-95.9097419,-95.0120525
+"Huntington Beach,  United States",relation,boundary,33.5885246,33.7562073,-118.1184237,-117.9403791
+"Huntsville,  United States",relation,boundary,34.537651,34.8653094,-86.9056655,-86.413795
+"Independence,  United States",relation,boundary,39.017679,39.1398712,-94.4815,-94.2160092
+"Indianapolis,  United States",relation,boundary,39.6321626,39.9275253,-86.3281207,-85.9380401
+"Inglewood,  United States",relation,boundary,33.925177,33.98297,-118.37885,-118.317747
+"Irvine,  United States",relation,boundary,33.5993914,33.7736521,-117.8687519,-117.6780259
+"Irving,  United States",relation,boundary,32.771786,32.953966,-97.0340376,-96.888782
+"Jackson,  United States",relation,boundary,32.1955013,32.4124415,-90.3299278,-90.0636172
+"Jacksonville,  United States",relation,boundary,30.103748,30.586197,-82.049502,-81.316712
+"Jersey City,  United States",relation,boundary,40.661622,40.7689376,-74.117057,-74.020405
+"Joliet,  United States",relation,boundary,41.4304465,41.5948417,-88.3621969,-87.9903608
+"Lafayette,  United States",relation,boundary,30.1239592,30.2964622,-92.1077963,-91.9713333
+"Lakewood,  United States",relation,boundary,39.618317,39.761955,-105.2004371,-105.0532141
+"Lancaster,  United States",relation,boundary,40.00691,40.0730345,-76.3465478,-76.2540919
+"Lansing,  United States",relation,boundary,42.647483,42.7949754,-84.701284,-84.417581
+"Laredo,  United States",relation,boundary,27.3664121,27.7444122,-99.7503179,-99.3310257
+"Las Vegas,  United States",relation,boundary,36.129554,36.380491,-115.4242845,-115.062066
+"Lexington,  United States",relation,boundary,37.845475,38.211404,-84.660415,-84.282715
+"Lincoln,  United States",relation,boundary,40.693767,40.900281,-96.80415,-96.577307
+"Little Rock,  United States",relation,boundary,34.6256657,34.8218226,-92.5215905,-92.1506554
+"Long Beach,  United States",relation,boundary,33.6905847,33.8855951,-118.248966,-118.0632825
+"Los Angeles,  United States",relation,boundary,33.659541,34.337306,-118.6681779,-118.1552947
+"Louisville,  United States",relation,boundary,37.9971,38.3801391,-85.9470644,-85.4051
+"Lowell,  United States",relation,boundary,42.6064942,42.6665157,-71.3824786,-71.271188
+"Lubbock,  United States",relation,boundary,33.4478798,33.7084726,-102.0321237,-101.749008
+"Madison,  United States",relation,boundary,30.8263922,31.0944138,-96.2411349,-95.6128453
+"Manchester, New Hampshire,  United States",relation,boundary,42.890351,43.0519225,-71.5132028,-71.3754311
+"McAllen, Texas,  United States",relation,boundary,26.1021346,26.4666626,-98.3180607,-98.1954127
+"McKinney, Texas,  United States",relation,boundary,33.1252923,33.3060918,-96.7679041,-96.5385097
+"Memphis, Tennessee,  United States",relation,boundary,34.994188,35.263879,-90.308366,-89.637089
+"Mesa, Arizona,  United States",relation,boundary,33.277624,33.513376,-111.8939822,-111.5806478
+"Mesquite, Texas,  United States",node,place,32.6066103,32.9266103,-96.759472,-96.439472
+"Miami Gardens, Florida,  United States",relation,boundary,25.9112169,25.9729787,-80.2932493,-80.1975216
+"Miami,  United States",relation,boundary,25.7090517,25.8557827,-80.31976,-80.139157
+"Midland,  United States",relation,boundary,31.9184063,32.1293873,-102.2697973,-102.0176654
+"Milwaukee, Wisconsin,  United States",relation,boundary,42.9208206,43.1949435,-88.0710618,-87.8629671
+"Minneapolis, Minnesota,  United States",relation,boundary,44.89015,45.05125,-93.329163,-93.1938584
+"Miramar,  United States",relation,boundary,25.956844,25.9954102,-80.4402961,-80.2061121
+"Mobile, Alabama,  United States",relation,boundary,30.560374,30.843458,-88.221253,-87.956616
+"Modesto, California,  United States",relation,boundary,37.521933,37.711443,-121.096473,-120.901239
+"Montgomery, Alabama,  United States",relation,boundary,32.249921,32.437677,-86.41987,-86.072205
+"Moreno Valley, California,  United States",relation,boundary,33.8586803,33.985102,-117.296524,-117.088203
+"Murfreesboro, Tennessee,  United States",relation,boundary,35.762729,35.960638,-86.570986,-86.325279
+"Murrieta,  United States",relation,boundary,33.5134337,33.6415353,-117.2800431,-117.1185212
+"Naperville,  United States",relation,boundary,41.6698948,41.821991,-88.235296,-88.0885135
+"Nashville,  United States",relation,boundary,37.434549,37.443125,-98.428098,-98.4189
+"New Haven,  United States",relation,boundary,41.2464253,41.35039,-72.998048,-72.8604243
+"New Orleans,  United States",relation,boundary,29.8654809,30.1994687,-90.14003,-89.6251763
+"New York,  United States",relation,boundary,40.477399,40.9161785,-74.25909,-73.7001809
+"Newark,  United States",relation,boundary,40.6732502,40.7881387,-74.251324,-74.112787
+"Newport News, Virginia,  United States",relation,boundary,36.930691,37.2206658,-76.646093,-76.36161
+"Norfolk, Virginia,  United States",relation,boundary,36.8207991,36.9697231,-76.3448722,-76.1767248
+"Norman,  United States",relation,boundary,35.145318,35.348324,-97.5474454,-97.176918
+"North Las Vegas,  United States",relation,boundary,36.1848302,36.33589,-115.2120179,-114.958628
+"Norwalk,  United States",relation,boundary,41.020449,41.1712683,-73.4745657,-73.379088
+"Oakland,  United States",relation,boundary,37.6336763,37.8854257,-122.355881,-122.1144203
+"Oceanside,  United States",relation,boundary,33.1325655,33.3000686,-117.4398002,-117.236575
+"Oklahoma City,  United States",relation,boundary,35.290695,35.674752,-97.830948,-97.124718
+"Olathe,  United States",relation,boundary,38.8054833,38.9889258,-94.928023,-94.7143984
+"Omaha,  United States",relation,boundary,41.1905882,41.3930618,-96.2682,-95.871141
+"Ontario,  United States",relation,boundary,33.9753136,34.0933563,-117.6829386,-117.5240678
+"Orange,  United States",relation,boundary,33.3336696,33.9476346,-118.1527575,-117.4136102
+"Orlando,  United States",relation,boundary,28.3480634,28.614283,-81.5075377,-81.2275862
+"Overland Park,  United States",relation,boundary,38.7891311,39.0440703,-94.7610708,-94.60767
+"Oxnard,  United States",relation,boundary,34.118992,34.2614652,-119.329216,-119.1196893
+"Palm Bay,  United States",relation,boundary,27.824029,28.0638216,-80.7535564,-80.5409449
+"Palmdale, California,  United States",relation,boundary,34.509813,34.6610448,-118.287107,-117.9160022
+"Paradise, Nevada,  United States",relation,boundary,35.9845921,36.137126,-115.208162,-115.0593253
+"Pasadena, California,  United States",relation,boundary,34.1172023,34.251905,-118.198139,-118.065479
+"Pasadena, Texas,  United States",relation,boundary,29.55792,29.7402417,-95.234677,-94.9826401
+"Paterson,  United States",relation,boundary,40.888682,40.94159,-74.206197,-74.129233
+"Pembroke Pines, Florida,  United States",relation,boundary,25.9922472,26.0608428,-80.4427127,-80.2134853
+"Peoria, Arizona,  United States",relation,boundary,33.550699,33.9553,-112.447299,-112.2025617
+"Peoria, Illinois,  United States",relation,boundary,40.651938,40.844085,-89.698915,-89.546494
+"Philadelphia, Pennsylvania,  United States",relation,boundary,39.867005,40.1379593,-75.2802977,-74.9558314
+"Phoenix, Arizona,  United States",relation,boundary,33.2903739,33.9183794,-112.3240289,-111.9255201
+"Pittsburgh, Pennsylvania,  United States",relation,boundary,40.36152,40.5012021,-80.095517,-79.865728
+"Plano, Texas,  United States",relation,boundary,32.9970517,33.1259416,-96.8599747,-96.6129244
+"Pomona, California,  United States",relation,boundary,34.0185683,34.1126225,-117.8286722,-117.7112333
+"Ponce,  United States",relation,boundary,17.9612656,18.1723214,-66.699116,-66.5304188
+"Port St. Lucie, Florida,  United States",relation,boundary,27.2055643,27.3744233,-80.481303,-80.2442686
+"Portland, Oregon,  United States",relation,boundary,45.432536,45.6528812,-122.8367489,-122.4720252
+"Providence, Rhode Island,  United States",relation,boundary,41.772414,41.8618007,-71.472667,-71.3736135
+"Provo, Utah,  United States",relation,boundary,40.185799,40.328801,-111.740962,-111.5368724
+"Pueblo, Colorado,  United States",relation,boundary,38.189106,38.3453683,-104.7222744,-104.4600366
+"Raleigh,  United States",relation,boundary,35.7082575,35.970736,-78.8189744,-78.4707917
+"Rancho Cucamonga,  United States",relation,boundary,34.0771981,34.1712827,-117.6368438,-117.4789122
+"Reno,  United States",relation,boundary,39.392426,39.723436,-120.0023728,-119.699345
+"Richmond, California,  United States",relation,boundary,37.88364,38.0285668,-122.441484,-122.2434491
+"Richmond,  United States",relation,boundary,37.4467305,37.6028099,-77.6011728,-77.385303
+"Riverside,  United States",relation,boundary,33.8725232,34.0194237,-117.5237612,-117.2741722
+"Rochester, Minnesota,  United States",relation,boundary,43.884547,44.1082805,-92.5731822,-92.3890009
+"Rochester, New York,  United States",relation,boundary,43.1033023,43.2680674,-77.7016324,-77.5311657
+"Rockford,  United States",relation,boundary,42.1432458,42.3386478,-89.1952803,-88.9408682
+"Roseville,  United States",relation,boundary,38.7163523,38.8101558,-121.400248,-121.1841613
+"Round Rock,  United States",relation,boundary,30.4682901,30.5937774,-97.7648422,-97.5900058
+"Sacramento, California,  United States",relation,boundary,38.437574,38.685506,-121.56012,-121.36274
+"Salem, Oregon,  United States",relation,boundary,44.8512459,45.0166247,-123.1229614,-122.9352099
+"Salinas, California,  United States",relation,boundary,36.638818,36.7344544,-121.691914,-121.5901555
+"Salt Lake City, Utah,  United States",relation,boundary,40.6999263,40.8533905,-112.1013916,-111.7404843
+"San Antonio, Texas,  United States",relation,boundary,29.1862572,29.7309623,-98.8131865,-98.2230029
+"San Bernardino, California,  United States",relation,boundary,33.8709844,35.8092552,-117.8025491,-114.1307816
+"San Buenaventura, California,  United States",relation,boundary,34.227838,34.371507,-119.3501726,-119.1453837
+"San Diego, California,  United States",relation,boundary,32.5347726,33.114249,-117.3098053,-116.9057226
+"San Francisco, California,  United States",relation,boundary,37.6403143,37.929811,-123.173825,-122.281479
+"San Jose, California,  United States",node,place,37.1761905,37.4961905,-122.050583,-121.730583
+"Santa Ana, California,  United States",relation,boundary,33.6916541,33.7840133,-117.9439459,-117.8303495
+"Santa Clara, California,  United States",relation,boundary,36.8931127,37.4846245,-122.2025817,-121.2082946
+"Santa Clarita, California,  United States",relation,boundary,34.3414487,34.4960998,-118.6133031,-118.378774
+"Santa Rosa, California,  United States",relation,boundary,38.3643324,38.5080485,-122.8343404,-122.5699915
+"Savannah, Georgia,  United States",relation,boundary,31.887852,32.189662,-81.371427,-81.029515
+"Scottsdale, Arizona,  United States",relation,boundary,33.4480348,33.9003989,-111.9608697,-111.7560682
+"Seattle,  United States",relation,boundary,47.4810022,47.7341357,-122.459696,-122.224433
+"Shreveport, Louisiana,  United States",relation,boundary,32.3326915,32.5898665,-93.9478451,-93.679715
+"Simi Valley, California,  United States",relation,boundary,34.2084152,34.3226657,-118.8310988,-118.6325373
+"Sioux Falls, South Dakota,  United States",relation,boundary,43.4654383,43.6163657,-96.8407323,-96.651134
+"South Bend, Indiana,  United States",relation,boundary,41.5974505,41.7602675,-86.3607483,-86.1912911
+"Spokane, Washington,  United States",relation,boundary,47.5867785,47.7587975,-117.6039994,-117.3038581
+"Springfield, Illinois,  United States",relation,boundary,39.653656,39.87417,-89.773182,-89.56851
+"Springfield, Massachusetts,  United States",relation,boundary,42.0637364,42.1622195,-72.6221576,-72.471087
+"Springfield, Missouri,  United States",relation,boundary,37.0887889,37.2769839,-93.4132228,-93.1784958
+"St. Louis, Missouri,  United States",relation,boundary,38.5323215,38.7743396,-90.3206525,-90.1641941
+"St. Paul, Minnesota,  United States",relation,boundary,44.8872811,44.992016,-93.207787,-93.00432
+"St. Petersburg, Florida,  United States",relation,boundary,27.643638,27.913901,-82.769023,-82.540618
+"Stamford, Connecticut,  United States",relation,boundary,40.9642048,41.179929,-73.63393,-73.4954009
+"Sterling Heights, Michigan,  United States",relation,boundary,42.534792,42.627811,-83.0914436,-82.969635
+"Stockton, California,  United States",relation,boundary,37.887747,38.0583,-121.419736,-121.1840372
+"Sunnyvale, California,  United States",relation,boundary,37.329895,37.4637361,-122.065265,-121.98242
+"Surprise,  United States",relation,boundary,33.5800859,33.7823434,-112.6127257,-112.2985398
+"Syracuse, New York,  United States",relation,boundary,42.9843709,43.086102,-76.2046029,-76.074084
+"Tacoma, Washington,  United States",relation,boundary,47.1668108,47.31898,-122.562265,-122.3481499
+"Tallahassee, Florida,  United States",relation,boundary,30.3466959,30.5872436,-84.3780107,-84.1299504
+"Tampa, Florida,  United States",relation,boundary,27.8212598,28.1713602,-82.5864954,-82.2538678
+"Temecula, California,  United States",relation,boundary,33.4321253,33.554625,-117.2066945,-117.0548703
+"Tempe, Arizona,  United States",relation,boundary,33.3198641,33.4639755,-111.9784713,-111.8773909
+"Thornton,  United States",relation,boundary,39.8310116,40.0009278,-105.0155315,-104.8778931
+"Thousand Oaks, California,  United States",relation,boundary,34.1246869,34.2508707,-119.0016818,-118.7765123
+"Toledo, Ohio,  United States",relation,boundary,41.580266,41.7328519,-83.694237,-83.4546108
+"Topeka, Kansas,  United States",relation,boundary,38.917193,39.1094,-95.812263,-95.6019399
+"Torrance, California,  United States",relation,boundary,33.7802812,33.8871325,-118.4824689,-118.308127
+"Tucson, Arizona,  United States",relation,boundary,31.991623,32.32095,-111.0582298,-110.708206
+"Tulsa, Oklahoma,  United States",relation,boundary,35.968097,36.336505,-96.074478,-95.681597
+"Vallejo,  United States",relation,boundary,38.0593812,38.173496,-122.3875532,-122.16615
+"Vancouver, Washington,  United States",relation,boundary,45.5824668,45.6980031,-122.7745353,-122.46456
+"Victorville, California,  United States",relation,boundary,34.4357858,34.645497,-117.46864,-117.253729
+"Virginia Beach,  United States",relation,boundary,36.5504132,37.0302476,-76.228243,-75.8318954
+"Visalia,  United States",relation,boundary,36.269435,36.36565,-119.421412,-119.241917
+"Waco,  United States",relation,boundary,31.446727,31.6603867,-97.329176,-97.0447115
+"Warren,  United States",relation,boundary,40.6276452,41.069695,-90.789024,-90.439728
+"Washington, D.C.,  United States",relation,boundary,38.7916303,38.9958524,-77.1197663,-76.909366
+"Waterbury,  United States",relation,boundary,41.51422,41.615197,-73.0938539,-72.956789
+"West Jordan,  United States",relation,boundary,40.5659421,40.6401398,-112.0825853,-111.911742
+"West Valley City,  United States",relation,boundary,40.6311588,40.72683,-112.097261,-111.9202207
+"Westminster,  United States",relation,boundary,39.819151,39.9685387,-105.165542,-104.9876821
+"Wichita Falls,  United States",relation,boundary,33.8356543,33.9964124,-98.6143877,-98.4243457
+"Wichita,  United States",relation,boundary,37.489018,37.8402,-97.734352,-97.153003
+"Wilmington,  United States",relation,boundary,39.6880352,39.7730389,-75.588459,-75.4707753
+"Winston-Salem,  United States",relation,boundary,35.996552,36.21816,-80.385947,-80.100969
+"Worcester,  United States",relation,boundary,42.2100397,42.341187,-71.8840431,-71.7312371
+"Yonkers,  United States",relation,boundary,40.900479,40.988393,-73.919289,-73.810425
