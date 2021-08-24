@@ -1,1 +1,1 @@
-./tegola serve  --config="tegola-osm/tegola.toml"
+./tegola serve  --config="$TEGOLA_OSM_PATH/tegola.toml"
