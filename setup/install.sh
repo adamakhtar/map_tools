@@ -1,6 +1,8 @@
 #!/bin/bash
 
-sudo apt update -y && sudo add-apt-repository ppa:ubuntugis/ppa -y && sudo apt install postgresql-12 postgresql-contrib postgis gdal-bin unzip osmctools -y && sudo apt install ruby -y
+cd $HOME
+
+sudo apt update -y && sudo add-apt-repository ppa:ubuntugis/ppa -y && sudo apt install postgresql postgresql-contrib postgis gdal-bin unzip osmctools -y && sudo apt install ruby -y
 
 wget https://github.com/omniscale/imposm3/releases/download/v0.11.1/imposm-0.11.1-linux-x86-64.tar.gz
 tar xvzf imposm-0.11.1-linux-x86-64.tar.gz
@@ -28,4 +30,6 @@ mkdir ~/tegola_osm_build/cache
 mkdir ~/tegola_osm_build/diff
 
 
-sudo -u postgres psql -c "ALTER USER postgres PASSWORD 'mysticalninja';"
+sudo -u $DB_USER psql -c "ALTER USER $DB_USER PASSWORD '$DB_PW';"
+
+cd $HOME/setup

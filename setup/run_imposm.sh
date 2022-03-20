@@ -1,12 +1,11 @@
 ~/imposm/imposm import \
                 -connection postgis://$DB_USER:$DB_PW@$DB_HOST/$OSM_DB_NAME \
-                -mapping tegola-osm/imposm3.json \
-                -read ~/map.osm.pbf \
-                -write -optimize -diff -overwritecache \
+                -mapping $TEGOLA_OSM_PATH/imposm3.json \
+                -read $OSM_MAP_PATH \
+                -write -optimize -overwritecache \
                 -cachedir ~/$FILECACHE_BASEPATH/cache \
-                -diffdir ~/$FILECACHE_BASEPATH/diff
 
 ~/imposm/imposm  import  -connection postgis://$DB_USER:$DB_PW@$DB_HOST/$OSM_DB_NAME \
-                         -mapping tegola-osm/imposm3.json \
+                         -mapping $TEGOLA_OSM_PATH/imposm3.json \
                          -deployproduction \
                          -cachedir ~/$FILECACHE_BASEPATH/cache

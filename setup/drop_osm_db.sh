@@ -1,0 +1,1 @@
+sudo -u $DB_USER psql -c "DROP DATABASE osm;"
