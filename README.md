@@ -1,4 +1,4 @@
-`/setup` contains scripts to setup a map server with tegola database and generate map data using imposm.
+`/setup` contains scripts to setup a map server with tegola database and generate map data using imposm. See setup/README for more info on how to setup a map server.
 
 `/bounding_boxes` contains a script to retrieve bounding boxes for desired cities using the overpass api.
 
